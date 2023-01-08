@@ -644,3 +644,5 @@ I removed Grunt from the build process, added "modern" tools like ESLint and Pre
 
 -   `getAreaOfPolygon` to calculate the area of a polygon
 -   `getCoordinateKey` to get a property name (e.g. `lat` or `lng` of an object based on an array of possible names)
+
+Here we go!! 
